@@ -2,7 +2,9 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **developing RESTful APIs**
+- 🔭 I’m currently working on **"developing an e-magazine website that delivers engaging content through a user-friendly interface. Utilizing HTML, CSS, and JavaScript, 
+the site features dynamic article publishing, interactive media integration, responsive design for optimal viewing on all devices, 
+and intuitive navigation to enhance user experience."**
 
 - 💬 Ask me about **PHP, JavaScript and HTML5&CSS3**
 
