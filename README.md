@@ -1,4 +1,4 @@
-![Mark Mulli](mylogo.gif)
+![EMMANUEL NZYOKI](My logo.png)
 <h1 align="center">Hi 👋, I'm Emmanuel Nzyoki ⭐</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
