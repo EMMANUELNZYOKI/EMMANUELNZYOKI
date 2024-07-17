@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **emmanuelnzyoki777@gmail.com**
 
-- 📄 Know more about my experiences [https://my-portfolioemmanuel.vercel.app/](https://my-portfolioemmanuel.vercel.app/)
+- 📄 Get my Resume https://my-portfolioemmanuel.vercel.app/assets/images/my%20resume.pdf
 
 - ⚡ Fun fact **Coding literacy shapes the future.**
 
