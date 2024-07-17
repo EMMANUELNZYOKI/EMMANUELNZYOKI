@@ -1,7 +1,7 @@
 [![Masterhead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)]
 <h1 align="center">Hi 👋, I'm EMMANUEL NZYOKI</h1>
 <h3 align="center">A Full Stack Developer</h3>
-<img align ="right" alt="coding" width ="400" src="(https://res.cloudinary.com/drffmmfkm/image/upload/v1721203594/My_logo_hzcylm.png)">
+<img align ="right" alt="coding" width ="400" src="https://res.cloudinary.com/drffmmfkm/image/upload/v1721203594/My_logo_hzcylm.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelnzyoki&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelnzyoki" /> </p>
 
