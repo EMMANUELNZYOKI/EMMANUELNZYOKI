@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EMMANUELNZYOKI](https://github.com/EMMANUELNZYOKI)
 
-- 📝 I regularly write articles on [https://my-portfolioemmanuel.vercel.app/](https://my-portfolioemmanuel.vercel.app/)
+- 📝 I regularly write articles on [https://my-portfolioemmanuel.vercel.app/](https://https://my-portfolioemmanuel.vercel.app/assets/images/MYRESUME%20EMMANUEL.pdf/)
 
 - 💬 Ask me about **PHP, JavaScript and HTML5&CSS3**
 
