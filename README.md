@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Framework,python**
 
-- 👯 I’m looking to collaborate on [E-magazine](https://e-magazine-safetyplus.vercel.app/index.html)
-
 - 👨‍💻 All of my projects are available at [https://github.com/EMMANUELNZYOKI](https://github.com/EMMANUELNZYOKI)
 
 - 📝 I regularly write articles on [https://my-portfolioemmanuel.vercel.app/](https://https://my-portfolioemmanuel.vercel.app/assets/images/MYRESUME%20EMMANUEL.pdf/)
