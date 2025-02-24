@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ndei Emmanuel</h1>
 <h3 align="center">A passionate web developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelnzyoki&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelnzyoki" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelnzyoki" alt="emmanuelnzyoki" /></a> </p>
 
 - 🔭 I’m currently working on [django-Mpesa](https://github.com/EMMANUELNZYOKI/django-mpesa-daraja)
