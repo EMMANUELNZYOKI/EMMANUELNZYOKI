@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **emmanuelnzyoki777@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolioemmanuel.vercel.app/assets/images/MY_RESUME.pdf](https://my-portfolioemmanuel.vercel.app/assets/images/MY_RESUME.pdf)
+- 📄 Know about my experiences [https://my-portfolioemmanuelnzyoki.vercel.app/assets/images/MY_RESUME.pdf](https://my-portfolioemmanuelnzyoki.vercel.app/assets/images/MY_RESUME.pdf)
 
 - ⚡ Fun fact **It was created by Tim Berners-Lee, the inventor of the World Wide Web, in 1991. The website was hosted on CERN's servers and was used to explain what the World Wide Web was, how to use it, and even how to set up your own web server. You can still visit it at info.cern.ch! Imagine how far we've come from that simple text-based page to the interactive and dynamic web applications you build as a full-stack developer!**
 
