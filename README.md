@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=emmanuelnzyoki&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelnzyoki" /> 
 </p>
 
-- 🔭 I’m currently working on [django-Mpesa](https://github.com/EMMANUELNZYOKI/django-mpesa-daraja)
+- 🔭 I’m currently working on [Ice Cream parlor Shop website]((https://github.com/EMMANUELNZYOKI/Ice-Cream-Parlour-shop))
 
-- 🌱 I’m currently learning **Exploring other backend languages like Python (Django or Flask) or Ruby on Rails, AWS, Google Cloud, or Microsoft Azure for hosting and scaling applications.**
+- 🌱 Turning coffee into clean React code and smooth, responsive UIs.**
 
 - 👯 I’m looking to collaborate on [car management system](https://github.com/EMMANUELNZYOKI/car-management-system)
 
