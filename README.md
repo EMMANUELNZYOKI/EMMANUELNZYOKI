@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=emmanuelnzyoki&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelnzyoki" /> 
 </p>
 
-- 🔭 I’m currently working on [Ice Cream parlor Shop website]((https://github.com/EMMANUELNZYOKI/Ice-Cream-Parlour-shop))
+- 🔭 I’m currently working on [Ice Cream parlor Shop website](https://github.com/EMMANUELNZYOKI/Ice-Cream-Parlour-shop)
 
 - 🌱 Turning coffee into clean React code and smooth, responsive UIs.**
 
