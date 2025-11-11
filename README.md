@@ -9,7 +9,7 @@
 
 - 🌱 Turning coffee into clean React code and smooth, responsive UIs.**
 
-- 👯 I’m looking to collaborate on [car management system](https://github.com/EMMANUELNZYOKI/car-management-system)
+- 👯 I’m looking to collaborate on [result management system](https://github.com/EMMANUELNZYOKI/result-management-system)
 
 - 💬 Ask me about **What specific technologies or skills are you currently focusing on as a full-stack developer? Are you learning any new programming languages or frameworks? Are you exploring advanced topics like cloud deployment, microservices, or real-time data handling? Would you like suggestions for resources or tutorials in a specific area? Are there any challenges you're facing in your learning journey that I can help with?**
 
