@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=emmanuelnzyoki&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelnzyoki" /> 
 </p>
 
-- 🔭 I’m currently working on [Beauty-Palour-Management-System ](https://github.com/EMMANUELNZYOKI/Beauty-Palour-Management-System )
+🔭 I’m currently working on [DIOS Soccer Academy](https://github.com/EMMANUELNZYOKI/diossocceracademy)
 
 - 🌱 Turning coffee into clean React code and smooth, responsive UIs.**
 
